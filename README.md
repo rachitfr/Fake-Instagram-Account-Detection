@@ -115,7 +115,7 @@ Designed for executive-level readability and operational monitoring.
 ---
 
 ## Project Structure
-'''
+```
 Fake-Instagram-Account-Detection/
 │
 ├── data/
@@ -135,7 +135,7 @@ Fake-Instagram-Account-Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-'''
+```
 ---
 
 ## Business Value
