@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Fake Instagram Account Detection System  
 End-to-End Machine Learning & Analytics Project
 
